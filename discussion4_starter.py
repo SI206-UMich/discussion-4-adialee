@@ -48,6 +48,8 @@ class Rectangle():
     # Otherwise, it returns the perimeter of the rectangle.
 
     # YOUR CODE HERE
+    def perimeter(self):
+        pass
 
 
 def main():
